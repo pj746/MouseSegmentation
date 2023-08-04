@@ -1,4 +1,4 @@
-The main part of the codes comes from https://github.com/KumarLabJax/MouseTracking. We made some necessary modification to accommodate for multi mice tracking.
+This is a repository of my undergraduate thesis project. The main part of the codes comes from https://github.com/KumarLabJax/MouseTracking. The original repo was made for video segmentation of a single mouse. We made some necessary modifications to accommodate for multi mice tracking.
 
 # Environment Installation
 
